@@ -25,9 +25,7 @@
 扫码下载即可安装体验
 
 下载地址  [AI变声器](https://www.pgyer.com/aivoice)  
-![输入图片说明](https://images.gitee.com/uploads/images/2021/1230/001741_bdda36b8_963573.png "屏幕截图.png")
-
-
+![下载](%E4%B8%8B%E8%BD%BD.png)
 
 #### 参与贡献
 
