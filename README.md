@@ -25,14 +25,14 @@
 扫码下载即可安装体验
 
 下载地址  [AI变声器](https://www.pgyer.com/aivoice)  
-![下载](%E4%B8%8B%E8%BD%BD.png)
+![下载](https://spkx.oss-cn-shanghai.aliyuncs.com/help/%E4%B8%8B%E8%BD%BD.png)
 
 #### 参与贡献
 
 作者邮箱  cnhttt@163.com  
 开发不易 支持下呗  
 
-![输入图片说明](image.png)
+![输入图片说明](https://spkx.oss-cn-shanghai.aliyuncs.com/help/image.png)
 
 
 #### 特技
